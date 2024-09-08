@@ -10,3 +10,7 @@ Answer: Finance could use data science because it could help them analyze data t
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the history of a repository by combining the histories of the two branches while rebasing will rewrite the history by moving changes from one branch to another.
+
+
+
+
