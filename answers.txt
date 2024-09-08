@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Finance could use data science because it could help them analyze data to prevent fraud and optimize profits.
